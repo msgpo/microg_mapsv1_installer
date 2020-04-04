@@ -1,0 +1,6 @@
+id=microg_mapsv1_installer
+name=microG mapsv1 installer
+version=v1
+versionCode=1
+author=ploink
+description=Install android_frameworks_mapsv1
